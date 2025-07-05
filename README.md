@@ -23,16 +23,17 @@ This project analyzes a dataset of over 34,000 used car listings to uncover the 
 ---
 
 ## Project Structure
-
+```bash
 AI-ML-Assignment-11/
-├──src/
+├── src/
 │   ├── data/
 │   │   └── vehicles.csv
 │   ├── images/
-│   │   └── crisp.png
+│   │   ├── crisp.png
 │   │   └── kurt.png
 │   └── prompt_II.ipynb
 └── README.md
+```
 
 ---
 
